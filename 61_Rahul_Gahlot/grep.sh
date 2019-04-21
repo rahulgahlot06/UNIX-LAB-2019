@@ -1,7 +1,7 @@
 echo "you are very intelligent
 you are best
 it's a thing
-my name is pavan 
+my name is Rahul gahlot 
 you have good achievement" > test_file
 grep -i you test_file
 grep -i -n you test_file
