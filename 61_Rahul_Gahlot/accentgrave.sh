@@ -6,6 +6,6 @@ set `whoami`
 mv $name $name.$1
 ls
 echo "using accent grave to print file content"
-echo "My name is pavan" > sample
+echo "This is Rahul gahlot" > sample
 set `cat sample`
 echo $*
