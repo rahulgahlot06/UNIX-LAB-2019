@@ -1,5 +1,5 @@
 cat > test
-cd /home/pavan/
+cd /home/rahul/
 echo "list of Home"
 ls
 echo "list with futher details"
