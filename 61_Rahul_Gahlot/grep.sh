@@ -1,8 +1,8 @@
-echo "you are very intelligent
-you are best
+echo "you are good
+you are supportive
 it's a thing
 my name is Rahul gahlot 
-you have good achievement" > test_file
+you can achieve good" > test_file
 grep -i you test_file
 grep -i -n you test_file
 grep -i -n -c you test_file
